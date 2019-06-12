@@ -1,0 +1,4 @@
+The db_setup notebook was used to get the data from the api and create the initial database
+The fixdata notebook was used to clean, normalize, impute the feature data and explore the visualizations of it
+The fixcatagorized notebook was used to clean and simplify the indication or treat ment data which is trying to be predicted. Visualizations between the features and these classes are done here
+The models notebook was used to create the classification models from the clean data in the fixdata/fixcatagorized notebooks. Also a linear regression for the QED was created here
